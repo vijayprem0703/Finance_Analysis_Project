@@ -27,7 +27,7 @@ In order to answer these questions, I invested time in planning the PowerBI meas
 
 ## Data Analysis Summary
 
-Here are the dashboards that I created. If you would like to actually play around with these dashboards see the end of this readme for instructions:
+Here are the dashboards that I created:
 
 ![alt text][ExecSumm]
 
